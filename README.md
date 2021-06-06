@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Peek 2020-07-09 15-53](https://raw.githubusercontent.com/burakkececi/burakkececi/main/ezgif.com-gif-maker.gif)
+![Peek 2020-07-09 15-53](https://raw.githubusercontent.com/burakkececi/burakkececi/main/ezgif.com-gif-maker(1).gif)
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
