@@ -1,5 +1,5 @@
 
-![Peek 2020-07-09 15-53](https://raw.githubusercontent.com/burakkececi/burakkececi/main/ezgif.com-gif-maker(1).gif)
+![Peek 2020-07-09 15-53](https://raw.githubusercontent.com/burakkececi/burakkececi/main/me.gif)
 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
