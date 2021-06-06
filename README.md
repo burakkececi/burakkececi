@@ -8,7 +8,7 @@
 
 ---
 
-**Latest blog posts**
+###**Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
 - [Şarj Cihazı Devrini Bitiren Hamle: IBM 2 nm Çip](https://blog.youthall.com/sarj-cihazi-devrini-bitiren-hamle-ibm-2-nm-cip/)
 - [Sürekli Hayal Kurma: Maladaptive Daydreaming Sendromu](https://blog.youthall.com/surekli-hayal-kurma-maladaptive-daydreaming-sendromu/)
@@ -25,4 +25,17 @@
 <a href= "https://twitter.com/mphomphego"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/burakkececi_
+[2]: https://www.linkedin.com/in/burakkececi/
 
