@@ -3,6 +3,7 @@
 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [CV’ni Güçlendir: Öne Çıkaracak 4 Gönüllülük Deneyimi ](https://blog.youthall.com/cvni-guclendir-one-cikaracak-4-gonulluluk-deneyimi/)
 - [Şarj Cihazı Devrini Bitiren Hamle: IBM 2 nm Çip](https://blog.youthall.com/sarj-cihazi-devrini-bitiren-hamle-ibm-2-nm-cip/)
 - [Sürekli Hayal Kurma: Maladaptive Daydreaming Sendromu](https://blog.youthall.com/surekli-hayal-kurma-maladaptive-daydreaming-sendromu/)
 
