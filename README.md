@@ -3,9 +3,10 @@
 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Dijital İhtiyaçlar Hiyerarşisi: Maslow 2.0 ](https://blog.youthall.com/dijital-ihtiyaclar-hiyerarsisi-maslow-2-0/)
 - [CV’ni Güçlendir: Öne Çıkaracak 4 Gönüllülük Deneyimi ](https://blog.youthall.com/cvni-guclendir-one-cikaracak-4-gonulluluk-deneyimi/)
-- [Şarj Cihazı Devrini Bitiren Hamle: IBM 2 nm Çip](https://blog.youthall.com/sarj-cihazi-devrini-bitiren-hamle-ibm-2-nm-cip/)
-- [Sürekli Hayal Kurma: Maladaptive Daydreaming Sendromu](https://blog.youthall.com/surekli-hayal-kurma-maladaptive-daydreaming-sendromu/)
+- [Deli Değilim Ben: Psikanaliz ve Freud ](https://blog.youthall.com/deli-degilim-ben-psikanaliz-ve-freud/)
+- [Başarıya Giden Altın Kural: Okul (!)  ](https://blog.youthall.com/basariya-giden-altin-kural-okul/)
 
 <!-- BLOG-POST-LIST:END -->
 
