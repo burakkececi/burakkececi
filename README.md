@@ -1,10 +1,10 @@
+<a href="#"><img width="100%" height="auto" src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif" height="175px"/></a>
+<h1 align="center"> Hi 👋, I'm Burak Keçeci </h1> 
+<h3 align="center"> A passionate backend developer from Turkey! </h3>
 
-### Hi 👋, I'm Burak Keçeci 
-#### A passionate backend developer from Turkey!
+</br>
 
-##
-
-<div align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakkececi&show_icons=true&locale=en&&layout=compact&show_icons=true&theme=radical" alt="burakkececi" /></p></div>
+<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakkececi&show_icons=true&locale=en&&layout=compact&show_icons=true&theme=radical" alt="burakkececi" /></div>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakkececi&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="burakkececi" /></p>
