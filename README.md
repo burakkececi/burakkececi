@@ -4,10 +4,10 @@
 
 </br>
 
-<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakkececi&show_icons=true&locale=en&&layout=compact&show_icons=true&theme=radical" alt="burakkececi" /></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakkececi&show_icons=true&locale=en&&layout=compact&show_icons=true&theme=radical" alt="burakkececi" />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakkececi&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="burakkececi" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakkececi&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="burakkececi" />
 
 ##
 
