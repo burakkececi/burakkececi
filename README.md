@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://xbilgi.com/wp-content/uploads/2019/01/sevinmek.gif" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> -->
 <h1 align="center"> Hi 👋, I'm Burak Keçeci </h1> 
 <h3 align="center"> A passionate backend developer from Turkey! </h3>
 
