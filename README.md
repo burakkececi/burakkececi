@@ -20,6 +20,8 @@
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+
+- [Introduction to Regular Expressions ](https://medium.com/@burakkececi/introduction-to-regular-expression-regex-83aacc9ff53b)
 - [Image Understanding ](https://medium.com/@burakkececi/image-understanding-e8a1320fb4c9)
 - [GIT Nedir?](https://medium.com/@burakkececi/git-nedir-git-nas%C4%B1l-kurulur-temel-git-komutlar%C4%B1-nelerdir-88ed70d8c6e6)
 - [Dijital İhtiyaçlar Hiyerarşisi: Maslow 2.0 ](https://blog.youthall.com/dijital-ihtiyaclar-hiyerarsisi-maslow-2-0/)
@@ -33,7 +35,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/burakkececi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakkececi" height="30" width="40" /></a>
-<a href="https://instagram.com/burakkcecii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakkcecii" height="30" width="40" /></a>
  <a href="https://medium.com/@burakkececi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="burakkcecii" height="30" width="40" /></a>
 </p>
 
