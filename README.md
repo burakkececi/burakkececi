@@ -12,40 +12,32 @@
 <br />
 
 ## I'm a Self-Taught, Developer!!
-- 🎯 I’m currently working as backend developer.
-- 🕵️‍♂️ I have been involved in data science for the last year. 
+- 🎯 I’m currently working as a backend developer @Borusan Otomotiv.
+- 🕵️‍♂️ I’m currently learning generative ai. 
 
 <br />
 
 ## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
 - [Introduction to Regular Expressions ](https://medium.com/@burakkececi/introduction-to-regular-expression-regex-83aacc9ff53b)
 - [Image Understanding ](https://medium.com/@burakkececi/image-understanding-e8a1320fb4c9)
 - [GIT Nedir?](https://medium.com/@burakkececi/git-nedir-git-nas%C4%B1l-kurulur-temel-git-komutlar%C4%B1-nelerdir-88ed70d8c6e6)
 - [Dijital İhtiyaçlar Hiyerarşisi: Maslow 2.0 ](https://blog.youthall.com/dijital-ihtiyaclar-hiyerarsisi-maslow-2-0/)
 - [Deli Değilim Ben: Psikanaliz ve Freud ](https://blog.youthall.com/deli-degilim-ben-psikanaliz-ve-freud/)
-<!-- BLOG-POST-LIST:END -->
+
 <br />
 
 ## 🤖 Tech Stack
-<p>
-<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/spring/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker/" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,docker,kubernetes,git,aws,elasticsearch,rabbitmq,html,css,js,react,postgres,py,tensorflow,sklearn" />
+  </a>
 </p>
-
 <br />
 
 ## 📬 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/burakkececi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakkececi" height="30" width="40" /></a>
- <a href="https://medium.com/@burakkececi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="burakkcecii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/burakkececi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="burakkececi"/></a>
+ <a href="https://medium.com/@burakkececi" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="burakkcecii"/></a>
 </p>
 
