@@ -15,16 +15,6 @@
 - 🎯 I’m currently working as a backend developer @Borusan Otomotiv.
 - 🕵️‍♂️ I’m currently learning generative ai. 
 
-<br />
-
-## 📕 Latest Blog Posts
-- [Introduction to Regular Expressions ](https://medium.com/@burakkececi/introduction-to-regular-expression-regex-83aacc9ff53b)
-- [Image Understanding ](https://medium.com/@burakkececi/image-understanding-e8a1320fb4c9)
-- [GIT Nedir?](https://medium.com/@burakkececi/git-nedir-git-nas%C4%B1l-kurulur-temel-git-komutlar%C4%B1-nelerdir-88ed70d8c6e6)
-- [Dijital İhtiyaçlar Hiyerarşisi: Maslow 2.0 ](https://blog.youthall.com/dijital-ihtiyaclar-hiyerarsisi-maslow-2-0/)
-- [Deli Değilim Ben: Psikanaliz ve Freud ](https://blog.youthall.com/deli-degilim-ben-psikanaliz-ve-freud/)
-
-<br />
 
 ## 🤖 Tech Stack
 <p align="left">
